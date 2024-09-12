@@ -45,8 +45,8 @@ class MyDrawer extends StatelessWidget {
                 //home list tile
 
                 MyDrawerTile(
-                  title: "H O M E",
-                  icon: Icons.home,
+                  title: "C H A T  P A G E",
+                  icon: Icons.chat_bubble,
                   onTap: () {
                     //pop up menu drawer since we are already at home
                     Navigator.pop(context);

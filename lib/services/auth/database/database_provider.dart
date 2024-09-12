@@ -6,6 +6,7 @@
 //also, if one day we decide to change our backend, it would be useful
 
 import 'package:flutter/foundation.dart';
+import 'package:pet_app/models/user.dart';
 
 import 'package:pet_app/services/auth/auth_service.dart';
 import 'package:pet_app/services/auth/database/database_service.dart';

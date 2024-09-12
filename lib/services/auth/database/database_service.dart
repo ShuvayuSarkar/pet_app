@@ -14,7 +14,7 @@ handles all the data from and to firebase
 */
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:twitter_clone/models/user.dart';
+import 'package:pet_app/models/user.dart';
 
 class DatabaseService {
   final _db = FirebaseFirestore.instance;
